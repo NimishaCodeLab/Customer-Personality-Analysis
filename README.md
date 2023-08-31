@@ -1,4 +1,4 @@
-# Customer Segmentation 🛍️🛒 (https://img.shields.io/badge/render-nbviewer-orange.svg)](http://nbviewer.org/github/Pegah-Ardehkhani/Customer-Segmentation/blob/main/Customer%20Segmentation%20%28Clustering%29.ipynb)
+# Customer Segmentation 🛍️🛒 
 
 <p align="center">
   <img width="500" height="250" src="https://sourcificconsulting.co.uk/wp-content/uploads/image19.gif">
